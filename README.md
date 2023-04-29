@@ -1,7 +1,10 @@
 # RATML
 
-
-Apologies for the confusion. Here's a standalone README with a focus on how the project is going to solve the problems:
+Slides:
+Val - 3, 4
+Alex - 5, 6
+Becca - 7, 8
+Matt - 9, 10, 11(Resources)
 
 # Project Title: Assessment 9
 
