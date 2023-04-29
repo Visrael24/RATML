@@ -17,17 +17,17 @@ Our algorithm will be trained on 3 separate datasets: Cars93[93, 28], Data_Scien
 
 #### Advantages and Disadvantages
 ##### Pros:
-        Decision Trees are easy to interpret and understand, making them a popular choice for data analysis and decision-making.
-        They work well with both categorical and numerical data, making them a versatile tool.
-        Decision Trees can handle missing values and noisy data without much pre-processing.
-        They can help identify relationships between variables and can be used for feature selection.
-        They can be used for both classification and regression tasks.
+        - Decision Trees are easy to interpret and understand, making them a popular choice for data analysis and decision-making.
+        - They work well with both categorical and numerical data, making them a versatile tool.
+        - Decision Trees can handle missing values and noisy data without much pre-processing.
+        - They can help identify relationships between variables and can be used for feature selection.
+        - They can be used for both classification and regression tasks.
 ##### Cons:
-        Decision Trees are prone to overfitting, especially when they are too complex or the data is noisy.
-        They are sensitive to changes in the data, which can cause different splits and predictions.
-        They can be biased towards features with many levels, resulting in a poorly generalized model.
-        They can easily become too complex, making it difficult to interpret the results and the underlying decision-making process.
-        They may not perform well on data with a high degree of multicollinearity, as they may end up splitting on correlated features.
+        - Decision Trees are prone to overfitting, especially when they are too complex or the data is noisy.
+        - They are sensitive to changes in the data, which can cause different splits and predictions.
+        - They can be biased towards features with many levels, resulting in a poorly generalized model.
+        - They can easily become too complex, making it difficult to interpret the results and the underlying decision-making process.
+        - They may not perform well on data with a high degree of multicollinearity, as they may end up splitting on correlated features.
 
 
 #### How the Algorithm Works
