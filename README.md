@@ -6,7 +6,7 @@ Alex - 5, 6
 Becca - 7, 8
 Matt - 9, 10, 11(Resources)
 
-# Project Title: Assessment 9
+# Assessment 9
 
 ## Introduction
 This project aims to inform our classmates and instructors on the benefits and use-cases of a DecisionTree() model/models for Machine-Learning
